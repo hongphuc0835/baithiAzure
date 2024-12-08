@@ -1,0 +1,224 @@
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\appsettings.Development.json
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\appsettings.json
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ATMApp.exe
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ATMApp.deps.json
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ATMApp.runtimeconfig.json
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ATMApp.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ATMApp.pdb
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Humanizer.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\MySqlConnector.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.CodeDom.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.csproj.AssemblyReference.cache
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.AssemblyInfoInputs.cache
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.AssemblyInfo.cs
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.csproj.CoreCompileInputs.cache
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.sourcelink.json
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets\msbuild.ATMApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets\msbuild.build.ATMApp.props
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ATMApp.props
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ATMApp.props
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\scopedcss\bundle\ATMApp.styles.css
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.csproj.Up2Date
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.dll
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\refint\ATMApp.dll
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.pdb
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ATMApp.genruntimeconfig.cache
+D:\CSharp\New folder\baithi\obj\Debug\net8.0\ref\ATMApp.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\appsettings.Development.json
+D:\aspNET\baithiAzure\bin\Debug\net8.0\appsettings.json
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ATMApp.exe
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ATMApp.deps.json
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ATMApp.runtimeconfig.json
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ATMApp.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ATMApp.pdb
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Humanizer.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\MySqlConnector.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.CodeDom.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.csproj.AssemblyReference.cache
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.AssemblyInfoInputs.cache
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.AssemblyInfo.cs
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.csproj.CoreCompileInputs.cache
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.MvcApplicationPartsAssemblyInfo.cs
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.MvcApplicationPartsAssemblyInfo.cache
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.sourcelink.json
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets.build.json
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets.development.json
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets\msbuild.ATMApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets\msbuild.build.ATMApp.props
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ATMApp.props
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ATMApp.props
+D:\aspNET\baithiAzure\obj\Debug\net8.0\staticwebassets.pack.json
+D:\aspNET\baithiAzure\obj\Debug\net8.0\scopedcss\bundle\ATMApp.styles.css
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.csproj.Up2Date
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.dll
+D:\aspNET\baithiAzure\obj\Debug\net8.0\refint\ATMApp.dll
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.pdb
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ATMApp.genruntimeconfig.cache
+D:\aspNET\baithiAzure\obj\Debug\net8.0\ref\ATMApp.dll
